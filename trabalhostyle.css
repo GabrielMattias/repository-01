@@ -1,0 +1,29 @@
+body {
+    /* background-color: black; */
+    color: white;
+    margin: 0px;
+    padding: 20px;
+}
+p {
+    margin: 0px;
+}
+h1 {
+    margin: 0px;
+}
+h2 {
+    margin: 0px;
+}
+h3 {
+    margin: 0px;
+}
+ol {
+    margin: 0px;
+}
+header {
+    background-color: black;
+    padding: 20px;
+}
+main {
+    background-color: black;
+    padding: 20px;
+}
